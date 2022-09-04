@@ -1,9 +1,9 @@
 {
     "sfw": {
         "images": {
-            "images": {
-                "1": "https://imgur.com/a/5v1KkP0",
-                "2": "https://imgur.com/a/Kjb2RBP"
+            "folder": {
+                "0": "https://imgur.com/a/5v1KkP0",
+                "1": "https://imgur.com/a/Kjb2RBP"
             },
             "kiss": {
                 "0": {
@@ -302,8 +302,309 @@
                 }
             },
             "slap": {
+                "folder": {
+                    "0": "https://imgur.com/a/7IoWV09",
+                    "1": "https://imgur.com/a/hvbBBqU"
+                },
                 "0": {
-                    "url": ""
+                    "url": "https://i.imgur.com/7dWHy85.gif"
+                },
+                "1": {
+                    "url": "https://i.imgur.com/E413QUF.gif"
+                },
+                "2": {
+                    "url": "https://i.imgur.com/r8yy7MG.gif"
+                },
+                "3": {
+                    "url": "https://i.imgur.com/jKP0KgL.gif"
+                },
+                "4": {
+                    "url": "https://i.imgur.com/HbRAY42.gif"
+                },
+                "5": {
+                    "url": "https://i.imgur.com/XG548Mb.gif"
+                },
+                "6": {
+                    "url": "https://i.imgur.com/0fzoPDB.gif"
+                },
+                "7": {
+                    "url": "https://i.imgur.com/ReGIPc7.gif"
+                },
+                "8": {
+                    "url": "https://i.imgur.com/mpBul97.gif"
+                },
+                "9": {
+                    "url": "https://i.imgur.com/jx0Rdx2.gif"
+                },
+                "10": {
+                    "url": "https://i.imgur.com/pR1EbCY.gif"
+                },
+                "11": {
+                    "url": "https://i.imgur.com/HR5rZPH.gif"
+                },
+                "12": {
+                    "url": "https://i.imgur.com/QduNpvP.gif"
+                },
+                "13": {
+                    "url": "https://i.imgur.com/LVgxD9L.gif"
+                },
+                "14": {
+                    "url": "https://i.imgur.com/PcRhX1p.gif"
+                },
+                "15": {
+                    "url": "https://i.imgur.com/pwjNKWC.gif"
+                },
+                "16": {
+                    "url": "https://i.imgur.com/h6WLD8r.gif"
+                },
+                "17": {
+                    "url": "https://i.imgur.com/XADmvkB.gif"
+                },
+                "18": {
+                    "url": "https://i.imgur.com/rfhE3LJ.gif"
+                },
+                "19": {
+                    "url": "https://i.imgur.com/bvN2L5G.gif"
+                },
+                "20": {
+                    "url": "https://i.imgur.com/EN93vLZ.gif"
+                },
+                "21": {
+                    "url": "https://i.imgur.com/BWtQ6HO.gif"
+                },
+                "22": {
+                    "url": "https://i.imgur.com/vKZJwW9.mp4"
+                },
+                "23": {
+                    "url": "https://i.imgur.com/JjLvkFV.gif"
+                },
+                "24": {
+                    "url": "https://i.imgur.com/R3WeJS3.gif"
+                },
+                "25": {
+                    "url": "https://i.imgur.com/hGIEkne.gif"
+                },
+                "26": {
+                    "url": "https://i.imgur.com/yivvhCL.gif"
+                },
+                "27": {
+                    "url": "https://i.imgur.com/h77QsKk.gif"
+                },
+                "28": {
+                    "url": "https://i.imgur.com/jsm8rnr.gif"
+                },
+                "29": {
+                    "url": "https://i.imgur.com/XUzupnL.gif"
+                },
+                "30": {
+                    "url": "https://i.imgur.com/xx4SU9A.gif"
+                },
+                "31": {
+                    "url": "https://i.imgur.com/bj1gDql.gif"
+                },
+                "32": {
+                    "url": "https://i.imgur.com/DQ0maE9.gif"
+                },
+                "33": {
+                    "url": "https://i.imgur.com/n56ieeT.gif"
+                },
+                "34": {
+                    "url": "https://i.imgur.com/rw00xl0.gif"
+                },
+                "35": {
+                    "url": "https://i.imgur.com/0iAaRzk.gif"
+                },
+                "36": {
+                    "url": "https://i.imgur.com/RuvEDsb.gif"
+                },
+                "37": {
+                    "url": "https://i.imgur.com/sscYipd.gif"
+                },
+                "38": {
+                    "url": "https://i.imgur.com/jA6HqUb.gif"
+                },
+                "39": {
+                    "url": "https://i.imgur.com/gHh4d21.gif"
+                },
+                "40": {
+                    "url": "https://i.imgur.com/ORsCnX0.gif"
+                },
+                "41": {
+                    "url": "https://i.imgur.com/KfM8JF9.gif"
+                },
+                "42": {
+                    "url": "https://i.imgur.com/H7XY6vm.gif"
+                },
+                "43": {
+                    "url": "https://i.imgur.com/YKXaUA6.gif"
+                },
+                "44": {
+                    "url": "https://i.imgur.com/ceID3XE.gif"
+                },
+                "45": {
+                    "url": "https://i.imgur.com/O1Qbg2H.gif"
+                },
+                "46": {
+                    "url": "https://i.imgur.com/tHzFtS7.gif"
+                },
+                "47": {
+                    "url": "https://i.imgur.com/GSVnR1y.gif"
+                },
+                "48": {
+                    "url": "https://i.imgur.com/rfiRxYj.gif"
+                },
+                "49": {
+                    "url": "https://i.imgur.com/a8IPNyy.gif"
+                },
+                "50": {
+                    "url": "https://i.imgur.com/ZttP42c.gif"
+                },
+                "51": {
+                    "url": "https://i.imgur.com/FoaQEq8.gif"
+                },
+                "52": {
+                    "url": "https://i.imgur.com/b3VNwac.gif"
+                },
+                "53": {
+                    "url": "https://i.imgur.com/JARfSjg.gif"
+                },
+                "54": {
+                    "url": "https://i.imgur.com/JrpSUwt.gif"
+                },
+                "55": {
+                    "url": "https://i.imgur.com/mJp4AKQ.gif"
+                },
+                "56": {
+                    "url": "https://i.imgur.com/MoJv8pz.gif"
+                },
+                "57": {
+                    "url": "https://i.imgur.com/C1t9G0X.gif"
+                },
+                "58": {
+                    "url": "https://i.imgur.com/0r9zSfG.gif"
+                },
+                "59": {
+                    "url": "https://i.imgur.com/3dsZxGB.gif"
+                },
+                "60": {
+                    "url": "https://i.imgur.com/4prsH3O.gif"
+                },
+                "61": {
+                    "url": "https://i.imgur.com/OceoJcR.gif"
+                },
+                "62": {
+                    "url": "https://i.imgur.com/huyawVP.gif"
+                },
+                "63": {
+                    "url": "https://i.imgur.com/U3jKTpo.gif"
+                },
+                "64": {
+                    "url": "https://i.imgur.com/A3lasCw.gif"
+                },
+                "65": {
+                    "url": "https://i.imgur.com/TcJC9ha.gif"
+                },
+                "66": {
+                    "url": "https://i.imgur.com/gb0ckdS.gif"
+                },
+                "67": {
+                    "url": "https://i.imgur.com/5RYiV3Z.gif"
+                },
+                "68": {
+                    "url": "https://i.imgur.com/c8OTiDp.gif"
+                },
+                "69": {
+                    "url": "https://i.imgur.com/5KqvKuP.gif"
+                },
+                "70": {
+                    "url": "https://i.imgur.com/83f5iVF.gif"
+                },
+                "71": {
+                    "url": "https://i.imgur.com/YZNGnKb.gif"
+                },
+                "72": {
+                    "url": "https://i.imgur.com/COn7TEg.gif"
+                },
+                "73": {
+                    "url": "https://i.imgur.com/EU4Cd4z.gif"
+                },
+                "74": {
+                    "url": "https://i.imgur.com/WzLQKC9.gif"
+                },
+                "75": {
+                    "url": "https://i.imgur.com/OwMI0R4.gif"
+                },
+                "76": {
+                    "url": "https://i.imgur.com/wo5L3Eu.gif"
+                },
+                "77": {
+                    "url": "https://i.imgur.com/Ttsw2Ml.gif"
+                },
+                "78": {
+                    "url": "https://i.imgur.com/BGT4n7G.gif"
+                },
+                "79": {
+                    "url": "https://i.imgur.com/bMXfqGz.gif"
+                },
+                "80": {
+                    "url": "https://i.imgur.com/R74BYIL.gif"
+                },
+                "81": {
+                    "url": "https://i.imgur.com/AGCFOBd.gif"
+                },
+                "82": {
+                    "url": "https://i.imgur.com/3hYiBZf.gif"
+                },
+                "83": {
+                    "url": "https://i.imgur.com/oOIYlHD.gif"
+                },
+                "84": {
+                    "url": "https://i.imgur.com/prGs2Pn.gif"
+                },
+                "85": {
+                    "url": "https://i.imgur.com/cSdmjYj.gif"
+                },
+                "86": {
+                    "url": "https://i.imgur.com/l9NNHFV.gif"
+                },
+                "87": {
+                    "url": "https://i.imgur.com/cKGoRjl.gif"
+                },
+                "88": {
+                    "url": "https://i.imgur.com/JFt13nV.gif"
+                },
+                "89": {
+                    "url": "https://i.imgur.com/XlQjP5C.gif"
+                },
+                "90": {
+                    "url": "https://i.imgur.com/GVdC248.gif"
+                },
+                "91": {
+                    "url": "https://i.imgur.com/P2dV5k6.gif"
+                },
+                "92": {
+                    "url": "https://i.imgur.com/R5fkUYc.gif"
+                },
+                "93": {
+                    "url": "https://i.imgur.com/8C9pGQp.gif"
+                },
+                "94": {
+                    "url": "https://i.imgur.com/Cytmz4S.gif"
+                },
+                "95": {
+                    "url": "https://i.imgur.com/A1fgQNx.gif"
+                },
+                "96": {
+                    "url": "https://i.imgur.com/HdUbVDN.gif"
+                },
+                "97": {
+                    "url": "https://i.imgur.com/TlBqcnq.gif"
+                },
+                "98": {
+                    "url": "https://i.imgur.com/Tn9ZLxW.gif"
+                },
+                "99": {
+                    "urL": "https://i.imgur.com/v7Jt0sU.gif"
                 }
             }
         }
