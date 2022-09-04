@@ -57,7 +57,8 @@ class Main(Resource):
                             23: "maid",
                             24: "waifu",
                             25: "oppai",
-                            26: "selfies"
+                            26: "selfies",
+                            27: "poker-face"
                         }
                     },
                     "wallpers": {
@@ -145,7 +146,8 @@ class Main_v1(Resource):
                             23: "maid",
                             24: "waifu",
                             25: "oppai",
-                            26: "selfies"
+                            26: "selfies",
+                            27: "poker-face"
                         }
                     },
                     "wallpers": {
