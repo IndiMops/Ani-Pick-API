@@ -33,7 +33,7 @@ class Main(Resource):
                         "tag": {
                             0: "kiss",
                             1: "slap",
-                            2: "ask",
+                            2: "poker-face",
                             3: "bite",
                             4: "eat",
                             5: "cuddle",
@@ -57,8 +57,7 @@ class Main(Resource):
                             23: "maid",
                             24: "waifu",
                             25: "oppai",
-                            26: "selfies",
-                            27: "poker-face"
+                            26: "selfies"
                         }
                     },
                     "wallpers": {
@@ -122,7 +121,7 @@ class Main_v1(Resource):
                         "tag": {
                             0: "kiss",
                             1: "slap",
-                            2: "ask",
+                            2: "poker-face",
                             3: "bite",
                             4: "eat",
                             5: "cuddle",
@@ -146,8 +145,7 @@ class Main_v1(Resource):
                             23: "maid",
                             24: "waifu",
                             25: "oppai",
-                            26: "selfies",
-                            27: "poker-face"
+                            26: "selfies"
                         }
                     },
                     "wallpers": {
