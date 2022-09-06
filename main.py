@@ -188,24 +188,30 @@ class Main_v1(Resource):
 
 class SfwImageKiss(Resource):
     def get(self):
-        all_img = len(data['sfw']['images']['kiss']) - 1
+        all_img = len(data['sfw']['images']['kiss']) - 2
         return data['sfw']['images']['kiss'][f'{random.randint(0, all_img)}']
 
 class SfwImageSlap(Resource):
     def get(self):
-        all_img = len(data['sfw']['images']['slap']) - 1
+        all_img = len(data['sfw']['images']['slap']) - 2
         return data['sfw']['images']['slap'][f'{random.randint(0, all_img)}']
 
 class SfwImagePokerFace(Resource):
     def get(self):
-        all_img = len(data['sfw']['images']['poker-face']) - 1
+        all_img = len(data['sfw']['images']['poker-face']) - 2
         return data['sfw']['images']['poker-face'][f'{random.randint(0, all_img)}']
+
+class SfwImageBite(Resource):
+    def get(self):
+        all_img = len(data['sfw']['images']['bite']) - 2 
+        return data['sfw']['images']['bite'][f'{random.randint(0, all_img)}']
 
 api.add_resource(Main, "/api")
 api.add_resource(Main_v1, "/api/v1")
 api.add_resource(SfwImageKiss, "/api/v1/sfw/kiss")
 api.add_resource(SfwImageSlap, "/api/v1/sfw/slap")
 api.add_resource(SfwImagePokerFace, "/api/v1/sfw/poker-face")
+api.add_resource(SfwImageBite, "/api/v1/sfw/bite")
 
 api.init_app(app)
 
