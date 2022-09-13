@@ -206,12 +206,18 @@ class SfwImageBite(Resource):
         all_img = len(data['sfw']['images']['bite']) - 2 
         return data['sfw']['images']['bite'][f'{random.randint(0, all_img)}']
 
+class SfwImageEat(Resource):
+    def get(self):
+        all_img = len(data['sfw']['images']['eat']) - 2 
+        return data['sfw']['images']['eat'][f'{random.randint(0, all_img)}']
+
 api.add_resource(Main, "/api")
 api.add_resource(Main_v1, "/api/v1")
 api.add_resource(SfwImageKiss, "/api/v1/sfw/kiss")
 api.add_resource(SfwImageSlap, "/api/v1/sfw/slap")
 api.add_resource(SfwImagePokerFace, "/api/v1/sfw/poker-face")
 api.add_resource(SfwImageBite, "/api/v1/sfw/bite")
+api.add_resource(SfwImageEat, "/api/v1/sfw/eat")
 
 api.init_app(app)
 
